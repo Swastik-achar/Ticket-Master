@@ -1,0 +1,17 @@
+.restaurants {
+  position: relative;
+}
+
+.Card {
+  background-color: #ffbd31;
+  width: 500px;
+  height: 200px;
+  display: inline-flex;
+  position: center;
+  margin-right: 40px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+.card-content {
+  justify-content: left;
+}
